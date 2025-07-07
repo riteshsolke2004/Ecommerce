@@ -1,0 +1,12 @@
+bcrypt
+Flask
+Flask-Cors
+Flask-Mail
+google-auth
+google-auth-oauthlib
+itsdangerous
+PyJWT
+pymongo
+python-dotenv
+pytz
+werkzeug
